@@ -29,9 +29,15 @@
 rmarao@dev:~$ whoami --verbose
 ```
 
-I'm a Computer Science student and software engineer who's drawn to the parts of software most people find intimidating — concurrency, backend architecture, and applied machine learning. I like building things that have to hold up under real conditions: multi-threaded servers, ML pipelines that make actual decisions, and full-stack apps that work end-to-end rather than just in a demo.
+## About Me
 
-Most of my time goes into backend engineering with Java and Spring Boot, designing clean REST APIs, and getting comfortable with the theory underneath the tools — data structures, systems, and how things scale. I'm always building something, and I care more about writing software that's reliable and maintainable than software that just works once.
+Computer Science student and software engineer drawn to the parts of software most people find intimidating — **concurrency, backend architecture, and applied machine learning.**
+
+- Focused on **backend engineering** with Java and Spring Boot, and designing clean REST APIs
+- Building things that hold up under real conditions — multi-threaded servers, ML pipelines that make actual decisions, full-stack apps that work end-to-end
+- Comfortable with the theory underneath the tools — **data structures, systems, and how things scale**
+- Care more about software that's **reliable and maintainable** than software that just works once
+- Always building something, always learning something new
 
 ```console
 rmarao@dev:~$ cat status.txt
