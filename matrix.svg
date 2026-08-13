@@ -1,0 +1,658 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" fill="none" role="img" aria-label="Matrix digital rain">
+<rect width="100%" height="100%" fill="#050805"/>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#003B00" stop-opacity="0"/>
+<stop offset="55%" stop-color="#00FF41" stop-opacity="0.85"/>
+<stop offset="90%" stop-color="#66FF99" stop-opacity="1"/>
+<stop offset="100%" stop-color="#FFFFFF" stop-opacity="1"/>
+</linearGradient></defs>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-234.0" to="0,200" dur="2.59s" begin="-2.05s" repeatCount="indefinite"/>
+    <text x="3.4" y="0.0" opacity="0.3">ﾎ</text>
+    <text x="3.4" y="21.4" opacity="0.38">ｱ</text>
+    <text x="3.4" y="42.8" opacity="0.46">0</text>
+    <text x="3.4" y="64.2" opacity="0.53">ﾎ</text>
+    <text x="3.4" y="85.6" opacity="0.61">ｷ</text>
+    <text x="3.4" y="107.0" opacity="0.69">ﾜ</text>
+    <text x="3.4" y="128.4" opacity="0.77">ｶ</text>
+    <text x="3.4" y="149.8" opacity="0.84">ｵ</text>
+    <text x="3.4" y="171.2" opacity="0.92">ﾎ</text>
+    <text x="3.4" y="192.6" opacity="1.0">ﾜ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-298.2" to="0,200" dur="4.09s" begin="-2.36s" repeatCount="indefinite"/>
+    <text x="25.9" y="0.0" opacity="0.3">ｳ</text>
+    <text x="25.9" y="21.4" opacity="0.36">ｶ</text>
+    <text x="25.9" y="42.8" opacity="0.42">ｳ</text>
+    <text x="25.9" y="64.2" opacity="0.47">ﾔ</text>
+    <text x="25.9" y="85.6" opacity="0.53">ﾋ</text>
+    <text x="25.9" y="107.0" opacity="0.59">0</text>
+    <text x="25.9" y="128.4" opacity="0.65">ｱ</text>
+    <text x="25.9" y="149.8" opacity="0.71">ｴ</text>
+    <text x="25.9" y="171.2" opacity="0.77">1</text>
+    <text x="25.9" y="192.6" opacity="0.82">ｸ</text>
+    <text x="25.9" y="214.0" opacity="0.88">0</text>
+    <text x="25.9" y="235.4" opacity="0.94">ｷ</text>
+    <text x="25.9" y="256.8" opacity="1.0">ﾎ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-255.39999999999998" to="0,200" dur="3.49s" begin="-0.36s" repeatCount="indefinite"/>
+    <text x="48.4" y="0.0" opacity="0.3">ﾌ</text>
+    <text x="48.4" y="21.4" opacity="0.37">ﾋ</text>
+    <text x="48.4" y="42.8" opacity="0.44">ﾍ</text>
+    <text x="48.4" y="64.2" opacity="0.51">ｳ</text>
+    <text x="48.4" y="85.6" opacity="0.58">ﾊ</text>
+    <text x="48.4" y="107.0" opacity="0.65">ｲ</text>
+    <text x="48.4" y="128.4" opacity="0.72">1</text>
+    <text x="48.4" y="149.8" opacity="0.79">ｳ</text>
+    <text x="48.4" y="171.2" opacity="0.86">ﾎ</text>
+    <text x="48.4" y="192.6" opacity="0.93">ｵ</text>
+    <text x="48.4" y="214.0" opacity="1.0">ｷ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-298.2" to="0,200" dur="4.41s" begin="-2.54s" repeatCount="indefinite"/>
+    <text x="70.9" y="0.0" opacity="0.3">ｸ</text>
+    <text x="70.9" y="21.4" opacity="0.36">ﾌ</text>
+    <text x="70.9" y="42.8" opacity="0.42">ﾔ</text>
+    <text x="70.9" y="64.2" opacity="0.47">ﾋ</text>
+    <text x="70.9" y="85.6" opacity="0.53">ﾊ</text>
+    <text x="70.9" y="107.0" opacity="0.59">ﾜ</text>
+    <text x="70.9" y="128.4" opacity="0.65">ﾌ</text>
+    <text x="70.9" y="149.8" opacity="0.71">ｶ</text>
+    <text x="70.9" y="171.2" opacity="0.77">日</text>
+    <text x="70.9" y="192.6" opacity="0.82">0</text>
+    <text x="70.9" y="214.0" opacity="0.88">ｷ</text>
+    <text x="70.9" y="235.4" opacity="0.94">ｴ</text>
+    <text x="70.9" y="256.8" opacity="1.0">日</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="4.41s" begin="-0.43s" repeatCount="indefinite"/>
+    <text x="93.4" y="0.0" opacity="0.3">ｲ</text>
+    <text x="93.4" y="21.4" opacity="0.36">ｵ</text>
+    <text x="93.4" y="42.8" opacity="0.43">ｷ</text>
+    <text x="93.4" y="64.2" opacity="0.49">ｸ</text>
+    <text x="93.4" y="85.6" opacity="0.55">ｲ</text>
+    <text x="93.4" y="107.0" opacity="0.62">ｱ</text>
+    <text x="93.4" y="128.4" opacity="0.68">ﾎ</text>
+    <text x="93.4" y="149.8" opacity="0.75">ﾎ</text>
+    <text x="93.4" y="171.2" opacity="0.81">ｱ</text>
+    <text x="93.4" y="192.6" opacity="0.87">ﾊ</text>
+    <text x="93.4" y="214.0" opacity="0.94">ｱ</text>
+    <text x="93.4" y="235.4" opacity="1.0">ﾌ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-255.39999999999998" to="0,200" dur="4.24s" begin="-4.41s" repeatCount="indefinite"/>
+    <text x="115.9" y="0.0" opacity="0.3">ﾌ</text>
+    <text x="115.9" y="21.4" opacity="0.37">ｲ</text>
+    <text x="115.9" y="42.8" opacity="0.44">1</text>
+    <text x="115.9" y="64.2" opacity="0.51">1</text>
+    <text x="115.9" y="85.6" opacity="0.58">ﾋ</text>
+    <text x="115.9" y="107.0" opacity="0.65">日</text>
+    <text x="115.9" y="128.4" opacity="0.72">ﾜ</text>
+    <text x="115.9" y="149.8" opacity="0.79">ｷ</text>
+    <text x="115.9" y="171.2" opacity="0.86">ﾔ</text>
+    <text x="115.9" y="192.6" opacity="0.93">ｶ</text>
+    <text x="115.9" y="214.0" opacity="1.0">1</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="2.77s" begin="-4.15s" repeatCount="indefinite"/>
+    <text x="138.4" y="0.0" opacity="0.3">ﾜ</text>
+    <text x="138.4" y="21.4" opacity="0.36">1</text>
+    <text x="138.4" y="42.8" opacity="0.43">ｵ</text>
+    <text x="138.4" y="64.2" opacity="0.49">ﾌ</text>
+    <text x="138.4" y="85.6" opacity="0.55">ｸ</text>
+    <text x="138.4" y="107.0" opacity="0.62">ｷ</text>
+    <text x="138.4" y="128.4" opacity="0.68">ｳ</text>
+    <text x="138.4" y="149.8" opacity="0.75">1</text>
+    <text x="138.4" y="171.2" opacity="0.81">日</text>
+    <text x="138.4" y="192.6" opacity="0.87">日</text>
+    <text x="138.4" y="214.0" opacity="0.94">ﾊ</text>
+    <text x="138.4" y="235.4" opacity="1.0">ｳ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-255.39999999999998" to="0,200" dur="4.24s" begin="-2.8s" repeatCount="indefinite"/>
+    <text x="160.9" y="0.0" opacity="0.3">ﾔ</text>
+    <text x="160.9" y="21.4" opacity="0.37">ﾋ</text>
+    <text x="160.9" y="42.8" opacity="0.44">ﾜ</text>
+    <text x="160.9" y="64.2" opacity="0.51">ｲ</text>
+    <text x="160.9" y="85.6" opacity="0.58">ﾔ</text>
+    <text x="160.9" y="107.0" opacity="0.65">ｷ</text>
+    <text x="160.9" y="128.4" opacity="0.72">ﾌ</text>
+    <text x="160.9" y="149.8" opacity="0.79">ｶ</text>
+    <text x="160.9" y="171.2" opacity="0.86">ｸ</text>
+    <text x="160.9" y="192.6" opacity="0.93">ﾌ</text>
+    <text x="160.9" y="214.0" opacity="1.0">ｷ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-191.2" to="0,200" dur="3.3s" begin="-2.03s" repeatCount="indefinite"/>
+    <text x="183.4" y="0.0" opacity="0.3">ﾌ</text>
+    <text x="183.4" y="21.4" opacity="0.4">日</text>
+    <text x="183.4" y="42.8" opacity="0.5">0</text>
+    <text x="183.4" y="64.2" opacity="0.6">ﾋ</text>
+    <text x="183.4" y="85.6" opacity="0.7">ｳ</text>
+    <text x="183.4" y="107.0" opacity="0.8">1</text>
+    <text x="183.4" y="128.4" opacity="0.9">日</text>
+    <text x="183.4" y="149.8" opacity="1.0">ﾍ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="2.88s" begin="-0.37s" repeatCount="indefinite"/>
+    <text x="205.9" y="0.0" opacity="0.3">ｷ</text>
+    <text x="205.9" y="21.4" opacity="0.36">ﾎ</text>
+    <text x="205.9" y="42.8" opacity="0.43">0</text>
+    <text x="205.9" y="64.2" opacity="0.49">1</text>
+    <text x="205.9" y="85.6" opacity="0.55">0</text>
+    <text x="205.9" y="107.0" opacity="0.62">ﾊ</text>
+    <text x="205.9" y="128.4" opacity="0.68">ｷ</text>
+    <text x="205.9" y="149.8" opacity="0.75">ﾍ</text>
+    <text x="205.9" y="171.2" opacity="0.81">ｸ</text>
+    <text x="205.9" y="192.6" opacity="0.87">日</text>
+    <text x="205.9" y="214.0" opacity="0.94">ｴ</text>
+    <text x="205.9" y="235.4" opacity="1.0">ﾊ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-319.59999999999997" to="0,200" dur="2.46s" begin="-1.09s" repeatCount="indefinite"/>
+    <text x="228.4" y="0.0" opacity="0.3">ｷ</text>
+    <text x="228.4" y="21.4" opacity="0.35">ｸ</text>
+    <text x="228.4" y="42.8" opacity="0.41">ﾋ</text>
+    <text x="228.4" y="64.2" opacity="0.46">ｲ</text>
+    <text x="228.4" y="85.6" opacity="0.52">0</text>
+    <text x="228.4" y="107.0" opacity="0.57">ｳ</text>
+    <text x="228.4" y="128.4" opacity="0.62">ｸ</text>
+    <text x="228.4" y="149.8" opacity="0.68">ﾔ</text>
+    <text x="228.4" y="171.2" opacity="0.73">ｶ</text>
+    <text x="228.4" y="192.6" opacity="0.78">ｷ</text>
+    <text x="228.4" y="214.0" opacity="0.84">ｶ</text>
+    <text x="228.4" y="235.4" opacity="0.89">日</text>
+    <text x="228.4" y="256.8" opacity="0.95">ｴ</text>
+    <text x="228.4" y="278.2" opacity="1.0">ﾌ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="3.62s" begin="-4.06s" repeatCount="indefinite"/>
+    <text x="250.9" y="0.0" opacity="0.3">日</text>
+    <text x="250.9" y="21.4" opacity="0.36">日</text>
+    <text x="250.9" y="42.8" opacity="0.43">ｶ</text>
+    <text x="250.9" y="64.2" opacity="0.49">ﾍ</text>
+    <text x="250.9" y="85.6" opacity="0.55">ｴ</text>
+    <text x="250.9" y="107.0" opacity="0.62">ｱ</text>
+    <text x="250.9" y="128.4" opacity="0.68">日</text>
+    <text x="250.9" y="149.8" opacity="0.75">ｵ</text>
+    <text x="250.9" y="171.2" opacity="0.81">ﾍ</text>
+    <text x="250.9" y="192.6" opacity="0.87">ｷ</text>
+    <text x="250.9" y="214.0" opacity="0.94">ｶ</text>
+    <text x="250.9" y="235.4" opacity="1.0">ｲ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-234.0" to="0,200" dur="2.08s" begin="-0.19s" repeatCount="indefinite"/>
+    <text x="273.4" y="0.0" opacity="0.3">ｴ</text>
+    <text x="273.4" y="21.4" opacity="0.38">ｷ</text>
+    <text x="273.4" y="42.8" opacity="0.46">日</text>
+    <text x="273.4" y="64.2" opacity="0.53">ｱ</text>
+    <text x="273.4" y="85.6" opacity="0.61">ﾊ</text>
+    <text x="273.4" y="107.0" opacity="0.69">ｳ</text>
+    <text x="273.4" y="128.4" opacity="0.77">ﾌ</text>
+    <text x="273.4" y="149.8" opacity="0.84">ｸ</text>
+    <text x="273.4" y="171.2" opacity="0.92">ﾔ</text>
+    <text x="273.4" y="192.6" opacity="1.0">ｷ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-234.0" to="0,200" dur="3.16s" begin="-1.65s" repeatCount="indefinite"/>
+    <text x="295.9" y="0.0" opacity="0.3">ﾌ</text>
+    <text x="295.9" y="21.4" opacity="0.38">ﾌ</text>
+    <text x="295.9" y="42.8" opacity="0.46">1</text>
+    <text x="295.9" y="64.2" opacity="0.53">ﾌ</text>
+    <text x="295.9" y="85.6" opacity="0.61">ｳ</text>
+    <text x="295.9" y="107.0" opacity="0.69">ｵ</text>
+    <text x="295.9" y="128.4" opacity="0.77">0</text>
+    <text x="295.9" y="149.8" opacity="0.84">ﾎ</text>
+    <text x="295.9" y="171.2" opacity="0.92">ﾔ</text>
+    <text x="295.9" y="192.6" opacity="1.0">ﾌ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-298.2" to="0,200" dur="3.4s" begin="-0.06s" repeatCount="indefinite"/>
+    <text x="318.4" y="0.0" opacity="0.3">ｶ</text>
+    <text x="318.4" y="21.4" opacity="0.36">1</text>
+    <text x="318.4" y="42.8" opacity="0.42">ﾍ</text>
+    <text x="318.4" y="64.2" opacity="0.47">ﾔ</text>
+    <text x="318.4" y="85.6" opacity="0.53">ｸ</text>
+    <text x="318.4" y="107.0" opacity="0.59">ﾜ</text>
+    <text x="318.4" y="128.4" opacity="0.65">日</text>
+    <text x="318.4" y="149.8" opacity="0.71">ｶ</text>
+    <text x="318.4" y="171.2" opacity="0.77">ｱ</text>
+    <text x="318.4" y="192.6" opacity="0.82">ｸ</text>
+    <text x="318.4" y="214.0" opacity="0.88">ｲ</text>
+    <text x="318.4" y="235.4" opacity="0.94">ｶ</text>
+    <text x="318.4" y="256.8" opacity="1.0">1</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="2.09s" begin="-0.89s" repeatCount="indefinite"/>
+    <text x="340.9" y="0.0" opacity="0.3">ｵ</text>
+    <text x="340.9" y="21.4" opacity="0.36">ﾌ</text>
+    <text x="340.9" y="42.8" opacity="0.43">1</text>
+    <text x="340.9" y="64.2" opacity="0.49">0</text>
+    <text x="340.9" y="85.6" opacity="0.55">ﾎ</text>
+    <text x="340.9" y="107.0" opacity="0.62">ｲ</text>
+    <text x="340.9" y="128.4" opacity="0.68">ｴ</text>
+    <text x="340.9" y="149.8" opacity="0.75">ﾔ</text>
+    <text x="340.9" y="171.2" opacity="0.81">ｸ</text>
+    <text x="340.9" y="192.6" opacity="0.87">ｶ</text>
+    <text x="340.9" y="214.0" opacity="0.94">0</text>
+    <text x="340.9" y="235.4" opacity="1.0">ﾔ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="3.34s" begin="-4.26s" repeatCount="indefinite"/>
+    <text x="363.4" y="0.0" opacity="0.3">ｲ</text>
+    <text x="363.4" y="21.4" opacity="0.36">日</text>
+    <text x="363.4" y="42.8" opacity="0.43">ｳ</text>
+    <text x="363.4" y="64.2" opacity="0.49">ｷ</text>
+    <text x="363.4" y="85.6" opacity="0.55">ﾜ</text>
+    <text x="363.4" y="107.0" opacity="0.62">ﾎ</text>
+    <text x="363.4" y="128.4" opacity="0.68">1</text>
+    <text x="363.4" y="149.8" opacity="0.75">ﾊ</text>
+    <text x="363.4" y="171.2" opacity="0.81">ｶ</text>
+    <text x="363.4" y="192.6" opacity="0.87">ｵ</text>
+    <text x="363.4" y="214.0" opacity="0.94">ｲ</text>
+    <text x="363.4" y="235.4" opacity="1.0">ﾜ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-212.6" to="0,200" dur="4.22s" begin="-3.96s" repeatCount="indefinite"/>
+    <text x="385.9" y="0.0" opacity="0.3">ｷ</text>
+    <text x="385.9" y="21.4" opacity="0.39">ｳ</text>
+    <text x="385.9" y="42.8" opacity="0.47">0</text>
+    <text x="385.9" y="64.2" opacity="0.56">ﾎ</text>
+    <text x="385.9" y="85.6" opacity="0.65">ﾋ</text>
+    <text x="385.9" y="107.0" opacity="0.74">1</text>
+    <text x="385.9" y="128.4" opacity="0.82">ｷ</text>
+    <text x="385.9" y="149.8" opacity="0.91">ｶ</text>
+    <text x="385.9" y="171.2" opacity="1.0">ｷ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-191.2" to="0,200" dur="3.55s" begin="-2.16s" repeatCount="indefinite"/>
+    <text x="408.4" y="0.0" opacity="0.3">ﾎ</text>
+    <text x="408.4" y="21.4" opacity="0.4">日</text>
+    <text x="408.4" y="42.8" opacity="0.5">0</text>
+    <text x="408.4" y="64.2" opacity="0.6">1</text>
+    <text x="408.4" y="85.6" opacity="0.7">ｳ</text>
+    <text x="408.4" y="107.0" opacity="0.8">1</text>
+    <text x="408.4" y="128.4" opacity="0.9">ｲ</text>
+    <text x="408.4" y="149.8" opacity="1.0">1</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-319.59999999999997" to="0,200" dur="2.17s" begin="-0.11s" repeatCount="indefinite"/>
+    <text x="430.9" y="0.0" opacity="0.3">ｱ</text>
+    <text x="430.9" y="21.4" opacity="0.35">ﾔ</text>
+    <text x="430.9" y="42.8" opacity="0.41">ﾔ</text>
+    <text x="430.9" y="64.2" opacity="0.46">ﾎ</text>
+    <text x="430.9" y="85.6" opacity="0.52">日</text>
+    <text x="430.9" y="107.0" opacity="0.57">ｴ</text>
+    <text x="430.9" y="128.4" opacity="0.62">日</text>
+    <text x="430.9" y="149.8" opacity="0.68">ｱ</text>
+    <text x="430.9" y="171.2" opacity="0.73">ﾊ</text>
+    <text x="430.9" y="192.6" opacity="0.78">ﾋ</text>
+    <text x="430.9" y="214.0" opacity="0.84">ﾋ</text>
+    <text x="430.9" y="235.4" opacity="0.89">ｸ</text>
+    <text x="430.9" y="256.8" opacity="0.95">ﾊ</text>
+    <text x="430.9" y="278.2" opacity="1.0">ｷ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-191.2" to="0,200" dur="2.48s" begin="-3.02s" repeatCount="indefinite"/>
+    <text x="453.4" y="0.0" opacity="0.3">ｳ</text>
+    <text x="453.4" y="21.4" opacity="0.4">ﾜ</text>
+    <text x="453.4" y="42.8" opacity="0.5">0</text>
+    <text x="453.4" y="64.2" opacity="0.6">ﾋ</text>
+    <text x="453.4" y="85.6" opacity="0.7">ｱ</text>
+    <text x="453.4" y="107.0" opacity="0.8">ｴ</text>
+    <text x="453.4" y="128.4" opacity="0.9">1</text>
+    <text x="453.4" y="149.8" opacity="1.0">ﾊ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="3.15s" begin="-1.57s" repeatCount="indefinite"/>
+    <text x="475.9" y="0.0" opacity="0.3">ﾋ</text>
+    <text x="475.9" y="21.4" opacity="0.36">1</text>
+    <text x="475.9" y="42.8" opacity="0.43">ﾌ</text>
+    <text x="475.9" y="64.2" opacity="0.49">1</text>
+    <text x="475.9" y="85.6" opacity="0.55">ﾊ</text>
+    <text x="475.9" y="107.0" opacity="0.62">ﾎ</text>
+    <text x="475.9" y="128.4" opacity="0.68">日</text>
+    <text x="475.9" y="149.8" opacity="0.75">ﾌ</text>
+    <text x="475.9" y="171.2" opacity="0.81">ﾌ</text>
+    <text x="475.9" y="192.6" opacity="0.87">ﾍ</text>
+    <text x="475.9" y="214.0" opacity="0.94">0</text>
+    <text x="475.9" y="235.4" opacity="1.0">ｶ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="2.55s" begin="-3.28s" repeatCount="indefinite"/>
+    <text x="498.4" y="0.0" opacity="0.3">ｱ</text>
+    <text x="498.4" y="21.4" opacity="0.36">ﾌ</text>
+    <text x="498.4" y="42.8" opacity="0.43">ｶ</text>
+    <text x="498.4" y="64.2" opacity="0.49">ﾌ</text>
+    <text x="498.4" y="85.6" opacity="0.55">ｳ</text>
+    <text x="498.4" y="107.0" opacity="0.62">0</text>
+    <text x="498.4" y="128.4" opacity="0.68">日</text>
+    <text x="498.4" y="149.8" opacity="0.75">ﾊ</text>
+    <text x="498.4" y="171.2" opacity="0.81">ﾜ</text>
+    <text x="498.4" y="192.6" opacity="0.87">ｷ</text>
+    <text x="498.4" y="214.0" opacity="0.94">ｲ</text>
+    <text x="498.4" y="235.4" opacity="1.0">ﾍ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-298.2" to="0,200" dur="3.73s" begin="-0.27s" repeatCount="indefinite"/>
+    <text x="520.9" y="0.0" opacity="0.3">ﾔ</text>
+    <text x="520.9" y="21.4" opacity="0.36">ﾋ</text>
+    <text x="520.9" y="42.8" opacity="0.42">ｲ</text>
+    <text x="520.9" y="64.2" opacity="0.47">日</text>
+    <text x="520.9" y="85.6" opacity="0.53">ﾜ</text>
+    <text x="520.9" y="107.0" opacity="0.59">ｲ</text>
+    <text x="520.9" y="128.4" opacity="0.65">0</text>
+    <text x="520.9" y="149.8" opacity="0.71">ﾎ</text>
+    <text x="520.9" y="171.2" opacity="0.77">ｳ</text>
+    <text x="520.9" y="192.6" opacity="0.82">ｶ</text>
+    <text x="520.9" y="214.0" opacity="0.88">ﾋ</text>
+    <text x="520.9" y="235.4" opacity="0.94">1</text>
+    <text x="520.9" y="256.8" opacity="1.0">ﾔ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-255.39999999999998" to="0,200" dur="2.23s" begin="-4.05s" repeatCount="indefinite"/>
+    <text x="543.4" y="0.0" opacity="0.3">ｴ</text>
+    <text x="543.4" y="21.4" opacity="0.37">0</text>
+    <text x="543.4" y="42.8" opacity="0.44">日</text>
+    <text x="543.4" y="64.2" opacity="0.51">ｲ</text>
+    <text x="543.4" y="85.6" opacity="0.58">0</text>
+    <text x="543.4" y="107.0" opacity="0.65">ｲ</text>
+    <text x="543.4" y="128.4" opacity="0.72">ﾎ</text>
+    <text x="543.4" y="149.8" opacity="0.79">ｸ</text>
+    <text x="543.4" y="171.2" opacity="0.86">ｸ</text>
+    <text x="543.4" y="192.6" opacity="0.93">ｱ</text>
+    <text x="543.4" y="214.0" opacity="1.0">1</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="4.49s" begin="-1.96s" repeatCount="indefinite"/>
+    <text x="565.9" y="0.0" opacity="0.3">ｶ</text>
+    <text x="565.9" y="21.4" opacity="0.36">ｲ</text>
+    <text x="565.9" y="42.8" opacity="0.43">ﾜ</text>
+    <text x="565.9" y="64.2" opacity="0.49">ｲ</text>
+    <text x="565.9" y="85.6" opacity="0.55">ﾜ</text>
+    <text x="565.9" y="107.0" opacity="0.62">1</text>
+    <text x="565.9" y="128.4" opacity="0.68">ﾜ</text>
+    <text x="565.9" y="149.8" opacity="0.75">日</text>
+    <text x="565.9" y="171.2" opacity="0.81">ｴ</text>
+    <text x="565.9" y="192.6" opacity="0.87">ｱ</text>
+    <text x="565.9" y="214.0" opacity="0.94">ｶ</text>
+    <text x="565.9" y="235.4" opacity="1.0">ｴ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-298.2" to="0,200" dur="3.61s" begin="-2.46s" repeatCount="indefinite"/>
+    <text x="588.4" y="0.0" opacity="0.3">ﾋ</text>
+    <text x="588.4" y="21.4" opacity="0.36">ｷ</text>
+    <text x="588.4" y="42.8" opacity="0.42">ﾊ</text>
+    <text x="588.4" y="64.2" opacity="0.47">ﾋ</text>
+    <text x="588.4" y="85.6" opacity="0.53">ﾊ</text>
+    <text x="588.4" y="107.0" opacity="0.59">ﾜ</text>
+    <text x="588.4" y="128.4" opacity="0.65">ﾌ</text>
+    <text x="588.4" y="149.8" opacity="0.71">ｱ</text>
+    <text x="588.4" y="171.2" opacity="0.77">ﾋ</text>
+    <text x="588.4" y="192.6" opacity="0.82">ﾔ</text>
+    <text x="588.4" y="214.0" opacity="0.88">ｶ</text>
+    <text x="588.4" y="235.4" opacity="0.94">ﾌ</text>
+    <text x="588.4" y="256.8" opacity="1.0">ｴ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="3.04s" begin="-1.94s" repeatCount="indefinite"/>
+    <text x="610.9" y="0.0" opacity="0.3">ﾔ</text>
+    <text x="610.9" y="21.4" opacity="0.36">ﾎ</text>
+    <text x="610.9" y="42.8" opacity="0.43">ｳ</text>
+    <text x="610.9" y="64.2" opacity="0.49">ﾋ</text>
+    <text x="610.9" y="85.6" opacity="0.55">ｳ</text>
+    <text x="610.9" y="107.0" opacity="0.62">ｴ</text>
+    <text x="610.9" y="128.4" opacity="0.68">ｲ</text>
+    <text x="610.9" y="149.8" opacity="0.75">ﾎ</text>
+    <text x="610.9" y="171.2" opacity="0.81">ﾎ</text>
+    <text x="610.9" y="192.6" opacity="0.87">ﾔ</text>
+    <text x="610.9" y="214.0" opacity="0.94">ﾍ</text>
+    <text x="610.9" y="235.4" opacity="1.0">ｴ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-212.6" to="0,200" dur="2.34s" begin="-1.12s" repeatCount="indefinite"/>
+    <text x="633.4" y="0.0" opacity="0.3">ﾔ</text>
+    <text x="633.4" y="21.4" opacity="0.39">日</text>
+    <text x="633.4" y="42.8" opacity="0.47">ｶ</text>
+    <text x="633.4" y="64.2" opacity="0.56">ﾜ</text>
+    <text x="633.4" y="85.6" opacity="0.65">ｸ</text>
+    <text x="633.4" y="107.0" opacity="0.74">ﾌ</text>
+    <text x="633.4" y="128.4" opacity="0.82">ｷ</text>
+    <text x="633.4" y="149.8" opacity="0.91">ｵ</text>
+    <text x="633.4" y="171.2" opacity="1.0">ｸ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-255.39999999999998" to="0,200" dur="2.06s" begin="-2.34s" repeatCount="indefinite"/>
+    <text x="655.9" y="0.0" opacity="0.3">ｵ</text>
+    <text x="655.9" y="21.4" opacity="0.37">ｴ</text>
+    <text x="655.9" y="42.8" opacity="0.44">ﾊ</text>
+    <text x="655.9" y="64.2" opacity="0.51">ｶ</text>
+    <text x="655.9" y="85.6" opacity="0.58">日</text>
+    <text x="655.9" y="107.0" opacity="0.65">ﾎ</text>
+    <text x="655.9" y="128.4" opacity="0.72">ｳ</text>
+    <text x="655.9" y="149.8" opacity="0.79">ﾌ</text>
+    <text x="655.9" y="171.2" opacity="0.86">ﾎ</text>
+    <text x="655.9" y="192.6" opacity="0.93">ｵ</text>
+    <text x="655.9" y="214.0" opacity="1.0">ﾍ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-298.2" to="0,200" dur="3.45s" begin="-0.44s" repeatCount="indefinite"/>
+    <text x="678.4" y="0.0" opacity="0.3">ﾜ</text>
+    <text x="678.4" y="21.4" opacity="0.36">0</text>
+    <text x="678.4" y="42.8" opacity="0.42">ﾎ</text>
+    <text x="678.4" y="64.2" opacity="0.47">ｱ</text>
+    <text x="678.4" y="85.6" opacity="0.53">ﾋ</text>
+    <text x="678.4" y="107.0" opacity="0.59">1</text>
+    <text x="678.4" y="128.4" opacity="0.65">ﾍ</text>
+    <text x="678.4" y="149.8" opacity="0.71">ｶ</text>
+    <text x="678.4" y="171.2" opacity="0.77">ｶ</text>
+    <text x="678.4" y="192.6" opacity="0.82">ｱ</text>
+    <text x="678.4" y="214.0" opacity="0.88">ｵ</text>
+    <text x="678.4" y="235.4" opacity="0.94">ｷ</text>
+    <text x="678.4" y="256.8" opacity="1.0">ｶ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-212.6" to="0,200" dur="4.23s" begin="-1.01s" repeatCount="indefinite"/>
+    <text x="700.9" y="0.0" opacity="0.3">ｴ</text>
+    <text x="700.9" y="21.4" opacity="0.39">1</text>
+    <text x="700.9" y="42.8" opacity="0.47">ｷ</text>
+    <text x="700.9" y="64.2" opacity="0.56">ｴ</text>
+    <text x="700.9" y="85.6" opacity="0.65">1</text>
+    <text x="700.9" y="107.0" opacity="0.74">日</text>
+    <text x="700.9" y="128.4" opacity="0.82">ｴ</text>
+    <text x="700.9" y="149.8" opacity="0.91">ﾌ</text>
+    <text x="700.9" y="171.2" opacity="1.0">ｱ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-191.2" to="0,200" dur="3.82s" begin="-4.11s" repeatCount="indefinite"/>
+    <text x="723.4" y="0.0" opacity="0.3">ｷ</text>
+    <text x="723.4" y="21.4" opacity="0.4">ｸ</text>
+    <text x="723.4" y="42.8" opacity="0.5">1</text>
+    <text x="723.4" y="64.2" opacity="0.6">ﾊ</text>
+    <text x="723.4" y="85.6" opacity="0.7">ﾍ</text>
+    <text x="723.4" y="107.0" opacity="0.8">日</text>
+    <text x="723.4" y="128.4" opacity="0.9">0</text>
+    <text x="723.4" y="149.8" opacity="1.0">0</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-255.39999999999998" to="0,200" dur="2.84s" begin="-2.54s" repeatCount="indefinite"/>
+    <text x="745.9" y="0.0" opacity="0.3">ｱ</text>
+    <text x="745.9" y="21.4" opacity="0.37">ｵ</text>
+    <text x="745.9" y="42.8" opacity="0.44">ﾎ</text>
+    <text x="745.9" y="64.2" opacity="0.51">ﾋ</text>
+    <text x="745.9" y="85.6" opacity="0.58">ｳ</text>
+    <text x="745.9" y="107.0" opacity="0.65">ﾜ</text>
+    <text x="745.9" y="128.4" opacity="0.72">日</text>
+    <text x="745.9" y="149.8" opacity="0.79">ｲ</text>
+    <text x="745.9" y="171.2" opacity="0.86">ｷ</text>
+    <text x="745.9" y="192.6" opacity="0.93">ｱ</text>
+    <text x="745.9" y="214.0" opacity="1.0">ﾌ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-234.0" to="0,200" dur="2.28s" begin="-0.51s" repeatCount="indefinite"/>
+    <text x="768.4" y="0.0" opacity="0.3">ｲ</text>
+    <text x="768.4" y="21.4" opacity="0.38">ﾔ</text>
+    <text x="768.4" y="42.8" opacity="0.46">ﾊ</text>
+    <text x="768.4" y="64.2" opacity="0.53">ﾊ</text>
+    <text x="768.4" y="85.6" opacity="0.61">ﾍ</text>
+    <text x="768.4" y="107.0" opacity="0.69">ｸ</text>
+    <text x="768.4" y="128.4" opacity="0.77">ｷ</text>
+    <text x="768.4" y="149.8" opacity="0.84">ｲ</text>
+    <text x="768.4" y="171.2" opacity="0.92">日</text>
+    <text x="768.4" y="192.6" opacity="1.0">ﾜ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="3.31s" begin="-1.5s" repeatCount="indefinite"/>
+    <text x="790.9" y="0.0" opacity="0.3">ﾊ</text>
+    <text x="790.9" y="21.4" opacity="0.36">1</text>
+    <text x="790.9" y="42.8" opacity="0.43">ｸ</text>
+    <text x="790.9" y="64.2" opacity="0.49">ｴ</text>
+    <text x="790.9" y="85.6" opacity="0.55">ｳ</text>
+    <text x="790.9" y="107.0" opacity="0.62">ｴ</text>
+    <text x="790.9" y="128.4" opacity="0.68">ﾊ</text>
+    <text x="790.9" y="149.8" opacity="0.75">ﾍ</text>
+    <text x="790.9" y="171.2" opacity="0.81">ｲ</text>
+    <text x="790.9" y="192.6" opacity="0.87">ｲ</text>
+    <text x="790.9" y="214.0" opacity="0.94">ﾜ</text>
+    <text x="790.9" y="235.4" opacity="1.0">ｳ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-298.2" to="0,200" dur="4.3s" begin="-1.6s" repeatCount="indefinite"/>
+    <text x="813.4" y="0.0" opacity="0.3">ﾌ</text>
+    <text x="813.4" y="21.4" opacity="0.36">ﾜ</text>
+    <text x="813.4" y="42.8" opacity="0.42">ｸ</text>
+    <text x="813.4" y="64.2" opacity="0.47">ｴ</text>
+    <text x="813.4" y="85.6" opacity="0.53">ﾍ</text>
+    <text x="813.4" y="107.0" opacity="0.59">ﾎ</text>
+    <text x="813.4" y="128.4" opacity="0.65">ｸ</text>
+    <text x="813.4" y="149.8" opacity="0.71">ｴ</text>
+    <text x="813.4" y="171.2" opacity="0.77">ｱ</text>
+    <text x="813.4" y="192.6" opacity="0.82">ｲ</text>
+    <text x="813.4" y="214.0" opacity="0.88">ｴ</text>
+    <text x="813.4" y="235.4" opacity="0.94">ﾜ</text>
+    <text x="813.4" y="256.8" opacity="1.0">ﾜ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-191.2" to="0,200" dur="3.44s" begin="-2.74s" repeatCount="indefinite"/>
+    <text x="835.9" y="0.0" opacity="0.3">ｷ</text>
+    <text x="835.9" y="21.4" opacity="0.4">ｷ</text>
+    <text x="835.9" y="42.8" opacity="0.5">ﾋ</text>
+    <text x="835.9" y="64.2" opacity="0.6">1</text>
+    <text x="835.9" y="85.6" opacity="0.7">ｳ</text>
+    <text x="835.9" y="107.0" opacity="0.8">1</text>
+    <text x="835.9" y="128.4" opacity="0.9">ﾎ</text>
+    <text x="835.9" y="149.8" opacity="1.0">ﾔ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-276.79999999999995" to="0,200" dur="2.68s" begin="-1.37s" repeatCount="indefinite"/>
+    <text x="858.4" y="0.0" opacity="0.3">ﾊ</text>
+    <text x="858.4" y="21.4" opacity="0.36">日</text>
+    <text x="858.4" y="42.8" opacity="0.43">ﾋ</text>
+    <text x="858.4" y="64.2" opacity="0.49">ﾍ</text>
+    <text x="858.4" y="85.6" opacity="0.55">ﾜ</text>
+    <text x="858.4" y="107.0" opacity="0.62">ｱ</text>
+    <text x="858.4" y="128.4" opacity="0.68">ﾊ</text>
+    <text x="858.4" y="149.8" opacity="0.75">ﾎ</text>
+    <text x="858.4" y="171.2" opacity="0.81">ｲ</text>
+    <text x="858.4" y="192.6" opacity="0.87">ｳ</text>
+    <text x="858.4" y="214.0" opacity="0.94">ｷ</text>
+    <text x="858.4" y="235.4" opacity="1.0">ｲ</text>
+  </g>
+</g>
+<g font-family="monospace" font-size="21.4" fill="url(#fade)" font-weight="bold">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,-298.2" to="0,200" dur="3.7s" begin="-1.96s" repeatCount="indefinite"/>
+    <text x="880.9" y="0.0" opacity="0.3">ｲ</text>
+    <text x="880.9" y="21.4" opacity="0.36">ｴ</text>
+    <text x="880.9" y="42.8" opacity="0.42">ｵ</text>
+    <text x="880.9" y="64.2" opacity="0.47">ﾌ</text>
+    <text x="880.9" y="85.6" opacity="0.53">ﾋ</text>
+    <text x="880.9" y="107.0" opacity="0.59">ｳ</text>
+    <text x="880.9" y="128.4" opacity="0.65">ｳ</text>
+    <text x="880.9" y="149.8" opacity="0.71">ﾋ</text>
+    <text x="880.9" y="171.2" opacity="0.77">ｵ</text>
+    <text x="880.9" y="192.6" opacity="0.82">ﾜ</text>
+    <text x="880.9" y="214.0" opacity="0.88">ﾔ</text>
+    <text x="880.9" y="235.4" opacity="0.94">ｴ</text>
+    <text x="880.9" y="256.8" opacity="1.0">ｴ</text>
+  </g>
+</g>
+</svg>
