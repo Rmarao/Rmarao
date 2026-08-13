@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" fill="none" role="img" aria-label="Windows terminal banner for Sakuru Venkata Rama Rao">
+  <defs>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00FF41" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#00FF41" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="898" height="258" rx="6" fill="#0A0E12" stroke="#00FF41" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="38" rx="6" fill="#00FF41" fill-opacity="0.07"/>
+  <line x1="1" y1="39" x2="899" y2="39" stroke="#00FF41" stroke-width="1" stroke-opacity="0.4"/>
+
+  <!-- windows terminal tab (left) -->
+  <rect x="14" y="9" width="150" height="30" rx="4" fill="#00FF41" fill-opacity="0.1"/>
+  <text x="30" y="29" fill="#00FF41" font-family="'JetBrains Mono',monospace" font-size="13" opacity="0.9">▤ PowerShell</text>
+
+  <!-- windows-style window controls (right): minimize, maximize, close -->
+  <!-- minimize -->
+  <line x1="812" y1="21" x2="826" y2="21" stroke="#8B949E" stroke-width="1.5"/>
+  <!-- maximize (square) -->
+  <rect x="846" y="13" width="14" height="14" fill="none" stroke="#8B949E" stroke-width="1.5"/>
+  <!-- close (X) -->
+  <line x1="879" y1="13" x2="893" y2="27" stroke="#8B949E" stroke-width="1.5"/>
+  <line x1="893" y1="13" x2="879" y2="27" stroke="#8B949E" stroke-width="1.5"/>
+
+  <!-- moving scanline -->
+  <rect x="2" y="40" width="896" height="60" fill="url(#scan)">
+    <animate attributeName="y" from="40" to="200" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- prompt line 1 -->
+  <text x="30" y="88" font-family="'JetBrains Mono',monospace" font-size="20" fill="#00FF41">
+    <tspan fill="#58A6FF">PS</tspan> <tspan fill="#27C93F">C:\Users\rmarao</tspan><tspan fill="#8B949E">&gt;</tspan> whoami
+  </text>
+
+  <!-- name (types in) -->
+  <text x="30" y="135" font-family="'JetBrains Mono',monospace" font-size="34" font-weight="700" fill="#00FF41" opacity="0">
+    Sakuru Venkata Rama Rao
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.4s" fill="freeze"/>
+  </text>
+
+  <!-- role line -->
+  <text x="30" y="172" font-family="'JetBrains Mono',monospace" font-size="16" fill="#8B949E" opacity="0">
+    &gt; backend engineer · ai/ml · java full-stack
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1s" fill="freeze"/>
+  </text>
+
+  <!-- status line with blinking cursor -->
+  <text x="30" y="215" font-family="'JetBrains Mono',monospace" font-size="16" fill="#00FF41" opacity="0">
+    <tspan fill="#58A6FF">PS</tspan> <tspan fill="#27C93F">C:\Users\rmarao</tspan><tspan fill="#8B949E">&gt;</tspan> ./build --status=shipping
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.6s" fill="freeze"/>
+  </text>
+  <rect x="476" y="203" width="10" height="18" fill="#00FF41" opacity="0">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7;0.71" dur="2.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- corner ticks -->
+  <path d="M12 232 h20 M12 232 v-16" stroke="#00FF41" stroke-width="1" opacity="0.3"/>
+  <path d="M888 232 h-20 M888 232 v-16" stroke="#00FF41" stroke-width="1" opacity="0.3"/>
+</svg>
