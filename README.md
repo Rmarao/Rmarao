@@ -173,54 +173,16 @@ open_to:
 <!-- ==================================================================== -->
 <!--                          SIGN-OFF                                     -->
 <!-- ==================================================================== -->
-<br>
-
 <div align="center">
 
 ### Let's build something that lasts.
 
-Open to internships, new-grad roles, and interesting problems.
-Reach out — I reply fast.
+Open to internships, new-grad roles, and interesting problems. Reach out — I reply fast.
 
 [![Email](https://img.shields.io/badge/ram.sakuru@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:ram.sakuru@gmail.com)
-
-</div>
-
-<br>
-
-<!-- ==================================================================== -->
-<!--                       SYSTEM STATS (fun)                              -->
-<!-- ==================================================================== -->
-```console
-rmarao@dev:~$ neofetch
-```
-
-```
-  rmarao@dev
-  ─────────────────────────────────────────────
-  role       →  Software Engineer
-  focus      →  Backend · REST APIs · Applied ML
-  languages  →  Java · Python · C++ · JavaScript
-  editor     →  VS Code
-  runtime    →  Coffee + Curiosity
-  status     →  Compiling ideas...
-  uptime     →  Always building
-```
-
-<br>
-
-<div align="center">
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds
 
 </div>
 
-<br>
-
-<div align="center">
-
-`> session active — thanks for stopping by.`
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E12,40:00AA2B,100:00FF41&height=160&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/Rmarao/Rmarao/main/matrix.svg" alt="matrix rain" width="100%" />
