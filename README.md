@@ -196,19 +196,15 @@ rmarao@dev:~$ neofetch
 ```
 
 ```
-        _nnnn_          rmarao@dev
-       dGGGGMMb         -----------
-      @p~qp~~qMb        role     : software engineer
-      M|@||@) M|        focus    : backend · rest apis · applied ml
-      @,----.JM|        languages: java · python · c++ · javascript
-     JS^\__/  qKL       runtime  : coffee ☕ + curiosity
-    dZP        qKRb     status   : compiling ideas...
-   dZP          qKKb    uptime   : always building
-  fZP            SMMb   editor   : vscode
-  HZM            MMMM
-  FqM            MMMM   ██████ green
-   qm         _dMMMb    ██████ python-blue
-    qMMMMMMMMMMMMMMM    ██████ terminal-black
+  rmarao@dev
+  ─────────────────────────────────────────────
+  role       →  Software Engineer
+  focus      →  Backend · REST APIs · Applied ML
+  languages  →  Java · Python · C++ · JavaScript
+  editor     →  VS Code
+  runtime    →  Coffee + Curiosity
+  status     →  Compiling ideas...
+  uptime     →  Always building
 ```
 
 <br>
@@ -227,4 +223,4 @@ rmarao@dev:~$ neofetch
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0A0E12&height=120&section=footer&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E12,40:00AA2B,100:00FF41&height=160&section=footer" width="100%" />
