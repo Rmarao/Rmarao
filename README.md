@@ -1,74 +1,125 @@
-<!-- ===================== BANNER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:c81e3a&height=280&section=header&text=Sakuru%20Venkata%20Rama%20Rao&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=20" width="100%" /> </p> <!-- ===================== TYPING ANIMATION ===================== --> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E63950&center=true&vCenter=true&width=600&lines=Full+Stack+Development;Backend+Engineering+with+Spring+Boot;AI+%2F+ML+%7C+NLP+Enthusiast;Building+Intelligent%2C+Scalable+Systems" alt="Typing SVG" /> </a> </p> <!-- ===================== NAV / BUTTONS ===================== --> <p align="center"> <a href="mailto:ram.sakuru@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-c81e3a?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Rmarao"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <hr> <!-- ===================== ABOUT ME ===================== -->
- ABOUT ME
+<!-- ==================================================================== -->
+<!--                          ANIMATED HEADER                              -->
+<!-- ==================================================================== -->
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Sakuru%20Venkata%20Rama%20Rao&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20in%20the%20making%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Java%20Full%20Stack&descAlignY=58&descSize=18" width="100%" />
+</a>
 
-Computer Science & Engineering undergraduate with hands-on experience in AI/ML, NLP, and full-stack development. Proficient in Java, Spring Boot, and JSP for backend development, with Weka for ML integration.
+<!-- ==================================================================== -->
+<!--                        TYPING ANIMATION                               -->
+<!-- ==================================================================== -->
+<div align="center">
 
-Strong foundation in DSA, REST APIs, OOP, and end-to-end application development. Passionate about building intelligent, scalable software systems that solve real-world problems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=36D7B7&center=true&vCenter=true&width=650&height=60&lines=I+turn+ideas+into+scalable+systems;I+speak+fluent+Java+%26+Spring+Boot;I+teach+machines+to+make+decisions;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-Currently pursuing B.E. in Computer Science & Engineering at RV Institute of Technology and Management (2023-2027), CGPA 8.36
-Learning Data Structures & Algorithms and System Design
-Interested in Backend Development, AI/ML, and Cloud Computing
-Languages: English, Hindi, Telugu (Fluent) - French (Basic)
-<!-- ===================== TECH STACK ===================== -->
- TECH STACK
+</div>
 
-Languages
+<!-- ==================================================================== -->
+<!--                            SOCIAL BAR                                 -->
+<!-- ==================================================================== -->
+<div align="center">
 
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+[![Email](https://img.shields.io/badge/Say_Hello-36D7B7?style=for-the-badge&logo=gmail&logoColor=0f2027)](mailto:ram.sakuru@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-9B5DE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rmarao)
+![Profile Views](https://komarev.com/ghpvc/?username=Rmarao&style=for-the-badge&color=36D7B7&label=PROFILE+VIEWS)
 
-Backend
+</div>
 
-<p> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" /> </p>
+<br>
 
-AI / ML
+<!-- ==================================================================== -->
+<!--                             ABOUT                                     -->
+<!-- ==================================================================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=9B5DE5&center=true&vCenter=true&width=300&height=40&lines=%3E+whoami" alt="whoami" />
+</div>
 
-<p> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" /> </p>
+> I'm a Computer Science undergrad who likes the parts of software most people find intimidating — **concurrency, backend architecture, and machine learning**. I build things that have to be *reliable under pressure*: multi-threaded servers, ML pipelines that make real decisions, systems designed to scale rather than just demo.
 
-Frontend
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JSP-F7DF1E?style=for-the-badge&logo=java&logoColor=black" /> </p>
+**What drives me**
+```
+→ Systems that stay fast when things get hard
+→ Clean backends over clever hacks
+→ ML that ships, not just notebooks
+→ Understanding the layer beneath the layer
+```
 
-Databases & Tools
+</td>
+<td width="50%" valign="top">
 
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p> <!-- ===================== PROJECTS ===================== -->
- FEATURED PROJECTS
-Intelligent Hospital Resource Optimization System  `Ongoing`
+**Right now**
+```
+→ B.E. CSE @ RVITM  ·  CGPA 8.36
+→ Grinding DSA + System Design
+→ Building multi-agent AI tooling
+→ Going deeper on backend + cloud
+```
 
-`Java` `Spring Boot` `JSP` `Weka` `MySQL`
+</td>
+</tr>
+</table>
 
-AI-driven patient inflow prediction system using Weka ML models trained on historical, weather, and seasonal data to forecast daily admissions and classify hospital load as Low, Nominal, or Surge. Spring Boot REST APIs intelligently allocate beds, staff, and equipment via a rule-based optimization engine, paired with a JSP real-time dashboard for tracking resource utilization and shortage alerts.
+<br>
 
-AI-Based Resume Filtering System
+<!-- ==================================================================== -->
+<!--                          TECH ARSENAL                                 -->
+<!-- ==================================================================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=36D7B7&center=true&vCenter=true&width=320&height=40&lines=%3E+tech+stack" alt="tech stack" />
+</div>
 
-`Python` `Node.js` `React.js`
+<div align="center">
 
-AI-powered resume screening tool that parses and ranks candidate resumes using NLP-based keyword extraction matched against job requirements. Reduced manual shortlisting time by ~80% with a React.js dashboard for HR teams to upload, rank, and review results with real-time match scores.
+<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,js,react,nodejs,express,mysql,postgres,mongodb,git,github,postman,tensorflow&theme=dark&perline=8" />
 
-Multi-Threaded Proxy Web Server
+<br><br>
 
-`Java`
+`Java` `Spring Boot` `JSP / Servlets` `REST APIs` &nbsp;•&nbsp; `Python` `scikit-learn` `OpenCV` `NLP` &nbsp;•&nbsp; `React` `Node` `Express` &nbsp;•&nbsp; `MySQL` `PostgreSQL` `MongoDB`
 
-Multi-threaded HTTP/HTTPS forward proxy in plain Java: bounded thread pool, thread-safe LRU response caching, CONNECT tunneling, and a live stats dashboard.
+</div>
 
-Glass-Box Browsing Companion
+<br>
 
-`Python`
+<!-- ==================================================================== -->
+<!--                          GITHUB STATS                                 -->
+<!-- ==================================================================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=9B5DE5&center=true&vCenter=true&width=340&height=40&lines=%3E+the+receipts" alt="stats" />
+</div>
 
-Browser-based AI assistant providing real-time, context-aware support across tabs using a transparent, multi-agent system to reduce tab fatigue.
+<div align="center">
 
-Driver Drowsiness Detection
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rmarao&show_icons=true&hide_border=true&bg_color=0f2027&title_color=36D7B7&icon_color=9B5DE5&text_color=ffffff&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmarao&layout=compact&hide_border=true&bg_color=0f2027&title_color=36D7B7&text_color=ffffff&langs_count=8" />
 
-`Python` `Flask` `OpenCV` `dlib`
+<br>
 
-Real-time driver drowsiness and yawn detection web app (Flask + OpenCV + dlib) using eye and mouth aspect ratio analysis, with a live dashboard and audible alarm.
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rmarao&hide_border=true&background=0f2027&stroke=36D7B7&ring=9B5DE5&fire=9B5DE5&currStreakLabel=36D7B7&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
-<!-- ===================== GITHUB STATS ===================== -->
- GITHUB STATS
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rmarao&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=E63950&icon_color=E63950" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmarao&layout=compact&theme=dark&hide_border=true&title_color=E63950" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rmarao&theme=dark&hide_border=true&stroke=E63950&ring=E63950&fire=E63950&currStreakLabel=E63950" /> </p> <!-- ===================== CERTIFICATIONS ===================== -->
- CERTIFICATIONS
-Infosys Springboard - Spring Boot Certification
-Infosys Certified - Data Structures & Algorithms
-Capable Agentic AI Certificate
-Cisco Certified - Networking Basics
-Data Science using Python - Brain O Vision
-<!-- ===================== FOOTER BANNER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c81e3a,100:0d1117&height=120&section=footer" width="100%" /> </p>
+</div>
+
+<br>
+
+<!-- ==================================================================== -->
+<!--                       CONTRIBUTION SNAKE                              -->
+<!-- ==================================================================== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<br>
+
+<!-- ==================================================================== -->
+<!--                           FOOTER                                      -->
+<!-- ==================================================================== -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=36D7B7&center=true&vCenter=true&width=500&height=45&lines=Let's+build+something+that+lasts.;ram.sakuru%40gmail.com" alt="footer" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" width="100%" />
