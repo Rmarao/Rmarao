@@ -99,9 +99,8 @@ rmarao@dev:~$ ls -la projects/
 ### Multi-Threaded Proxy Web Server
 `Java` · `Concurrency` · `Networking`
 
-Multi-threaded HTTP/HTTPS forward proxy built in plain Java — bounded thread pool, thread-safe LRU response caching, CONNECT tunneling, and a live stats dashboard.
+HTTP/HTTPS forward proxy in plain Java. Bounded thread pool, thread-safe LRU response cache, CONNECT tunneling, and a live stats dashboard.
 
-**→ Why it matters:** real concurrency and network programming, no framework hand-holding.
 
 [`view repo →`](https://github.com/Rmarao/Multi-Threaded-Proxy-Web-Server)
 
@@ -111,9 +110,8 @@ Multi-threaded HTTP/HTTPS forward proxy built in plain Java — bounded thread p
 ### Glass-Box Browsing Companion
 `Python` · `Multi-Agent AI` · `NLP`
 
-Browser-based AI assistant giving real-time, context-aware support across tabs through a transparent multi-agent system.
+Browser-based AI assistant that gives context-aware support across tabs through a transparent multi-agent system.
 
-**→ Why it matters:** applied LLM/agent architecture solving a real UX problem.
 
 [`view repo →`](https://github.com/Rmarao/Glass-Box-Browsing-Companion)
 
@@ -125,9 +123,8 @@ Browser-based AI assistant giving real-time, context-aware support across tabs t
 ### Hospital Resource Optimization
 `Java` · `Spring Boot` · `Weka` · `MySQL`
 
-AI-driven patient-inflow forecasting (Weka ML) with Spring Boot REST APIs that allocate beds, staff, and equipment via a rule-based engine + live dashboard.
+Patient-inflow forecasting with Weka ML and Spring Boot REST APIs that allocate beds, staff, and equipment via a rule-based engine, with a live dashboard.
 
-**→ Why it matters:** end-to-end backend + ML + data, production-style architecture.
 
 </td>
 <td width="50%" valign="top">
@@ -135,9 +132,8 @@ AI-driven patient-inflow forecasting (Weka ML) with Spring Boot REST APIs that a
 ### Driver Drowsiness Detection
 `Python` · `Flask` · `OpenCV` · `dlib`
 
-Real-time drowsiness & yawn detection web app using eye/mouth aspect-ratio analysis, live dashboard, and audible alarm.
+Real-time drowsiness and yawn detection web app using eye and mouth aspect-ratio analysis, with a live dashboard and audible alarm.
 
-**→ Why it matters:** real-time computer vision running at 20+ FPS.
 
 [`view repo →`](https://github.com/Rmarao/Driver-Drowsiness-Detection)
 
@@ -147,21 +143,44 @@ Real-time drowsiness & yawn detection web app using eye/mouth aspect-ratio analy
 
 <br>
 
+<br>
+
 <!-- ==================================================================== -->
-<!--                       LANGUAGE BREAKDOWN                              -->
+<!--                        CURRENT FOCUS                                  -->
 <!-- ==================================================================== -->
 ```console
-rmarao@dev:~$ ./languages.sh
+rmarao@dev:~$ cat focus.log
 ```
 
-<div align="center">
+```yaml
+learning:
+  - Data Structures & Algorithms
+  - System Design
+  - Backend Engineering
+  - Cloud Computing
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmarao&layout=compact&hide_border=true&bg_color=0A0E12&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
+building:
+  - Full-stack applications
+  - Scalable REST APIs
+  - Production-grade web platforms
 
-</div>
+exploring:
+  - Distributed systems
+  - Software architecture
+  - Cloud infrastructure
+
+open_to:
+  - Software Engineering roles
+  - Backend Development roles
+  - Full-stack Development roles
+  - Open-source collaboration
+```
 
 <br>
 
+<!-- ==================================================================== -->
+<!--                          SIGN-OFF                                     -->
+<!-- ==================================================================== -->
 <div align="center">
 
 `> connection established — let's build something that lasts.`
