@@ -14,8 +14,6 @@
 
 [![Email](https://img.shields.io/badge/./contact-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:ram.sakuru@gmail.com)
 [![GitHub](https://img.shields.io/badge/git_follow-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/Rmarao)
-[![Resume](https://img.shields.io/badge/cat_resume.pdf-000000?style=for-the-badge&logo=readthedocs&logoColor=00FF41&labelColor=000000)](https://github.com/Rmarao)
-![Views](https://komarev.com/ghpvc/?username=Rmarao&style=for-the-badge&color=00FF41&label=visitors&labelColor=000000)
 
 </div>
 
@@ -88,34 +86,78 @@ rmarao@dev:~$ cat stack.json
 <br>
 
 <!-- ==================================================================== -->
-<!--                          GITHUB STATS                                 -->
+<!--                       FEATURED PROJECTS                               -->
 <!-- ==================================================================== -->
 ```console
-rmarao@dev:~$ ./stats.sh --live
+rmarao@dev:~$ ls -la projects/
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Multi-Threaded Proxy Web Server
+`Java` · `Concurrency` · `Networking`
+
+Multi-threaded HTTP/HTTPS forward proxy built in plain Java — bounded thread pool, thread-safe LRU response caching, CONNECT tunneling, and a live stats dashboard.
+
+**→ Why it matters:** real concurrency and network programming, no framework hand-holding.
+
+[`view repo →`](https://github.com/Rmarao/Multi-Threaded-Proxy-Web-Server)
+
+</td>
+<td width="50%" valign="top">
+
+### Glass-Box Browsing Companion
+`Python` · `Multi-Agent AI` · `NLP`
+
+Browser-based AI assistant giving real-time, context-aware support across tabs through a transparent multi-agent system.
+
+**→ Why it matters:** applied LLM/agent architecture solving a real UX problem.
+
+[`view repo →`](https://github.com/Rmarao/Glass-Box-Browsing-Companion)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Hospital Resource Optimization
+`Java` · `Spring Boot` · `Weka` · `MySQL`
+
+AI-driven patient-inflow forecasting (Weka ML) with Spring Boot REST APIs that allocate beds, staff, and equipment via a rule-based engine + live dashboard.
+
+**→ Why it matters:** end-to-end backend + ML + data, production-style architecture.
+
+</td>
+<td width="50%" valign="top">
+
+### Driver Drowsiness Detection
+`Python` · `Flask` · `OpenCV` · `dlib`
+
+Real-time drowsiness & yawn detection web app using eye/mouth aspect-ratio analysis, live dashboard, and audible alarm.
+
+**→ Why it matters:** real-time computer vision running at 20+ FPS.
+
+[`view repo →`](https://github.com/Rmarao/Driver-Drowsiness-Detection)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ==================================================================== -->
+<!--                       LANGUAGE BREAKDOWN                              -->
+<!-- ==================================================================== -->
+```console
+rmarao@dev:~$ ./languages.sh
 ```
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Rmarao&show_icons=true&hide_border=true&bg_color=0A0E12&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmarao&layout=compact&hide_border=true&bg_color=0A0E12&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmarao&layout=compact&hide_border=true&bg_color=0A0E12&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
 
-<br>
-
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Rmarao&hide_border=true&background=0A0E12&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
-</div>
-
-<br>
-
-<!-- ==================================================================== -->
-<!--                      CONTRIBUTION SNAKE                               -->
-<!-- ==================================================================== -->
-```console
-rmarao@dev:~$ ./snake.sh
-```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rmarao/Rmarao/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
 
 <br>
