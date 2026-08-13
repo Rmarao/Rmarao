@@ -41,8 +41,8 @@
   </text>
 
   <!-- role line -->
-  <text x="30" y="172" font-family="'JetBrains Mono',monospace" font-size="16" fill="#8B949E" opacity="0">
-    &gt; backend engineer · ai/ml · java full-stack
+  <text x="30" y="172" font-family="'JetBrains Mono',monospace" font-size="16" font-weight="700" fill="#00FF41" opacity="0">
+    &gt; SOFTWARE ENGINEER
     <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1s" fill="freeze"/>
   </text>
 
