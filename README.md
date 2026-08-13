@@ -22,40 +22,26 @@
 <!-- ==================================================================== -->
 <!--                        FOR RECRUITERS                                 -->
 <!-- ==================================================================== -->
+<!-- ==================================================================== -->
+<!--                           ABOUT ME                                    -->
+<!-- ==================================================================== -->
 ```console
-rmarao@dev:~$ ./for-recruiters.sh
+rmarao@dev:~$ whoami --verbose
 ```
 
-> **Available for:** Software Engineering & Backend internships / new-grad roles (2027)
-> **Based in:** Bengaluru, India · open to relocation & remote
-> **Strongest in:** Java · Spring Boot · REST API design · applied ML
-> **Currently:** B.E. Computer Science (CGPA 8.36) — final years, actively building
+I'm a Computer Science student and software engineer who's drawn to the parts of software most people find intimidating — concurrency, backend architecture, and applied machine learning. I like building things that have to hold up under real conditions: multi-threaded servers, ML pipelines that make actual decisions, and full-stack apps that work end-to-end rather than just in a demo.
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
+Most of my time goes into backend engineering with Java and Spring Boot, designing clean REST APIs, and getting comfortable with the theory underneath the tools — data structures, systems, and how things scale. I'm always building something, and I care more about writing software that's reliable and maintainable than software that just works once.
 
-**BUILDS**
+```console
+rmarao@dev:~$ cat status.txt
+```
 
-Backend systems, ML pipelines, and full-stack apps that work end-to-end — not just demos.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**KNOWS**
-
-Concurrency, REST architecture, OOP, DBMS, and the theory under the tools (DSA, OS, networks).
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**WANTS**
-
-To own backend problems at scale and keep going deeper into distributed systems + cloud.
-
-</td>
-</tr>
-</table>
+```yaml
+focus:    Backend engineering · REST APIs · applied ML
+based_in: Bengaluru, India  (open to relocation & remote)
+status:   Actively building · open to internships & new-grad roles
+```
 
 <br>
 
@@ -181,8 +167,25 @@ open_to:
 <!-- ==================================================================== -->
 <!--                          SIGN-OFF                                     -->
 <!-- ==================================================================== -->
+<br>
+
 <div align="center">
 
-`> connection established — let's build something that lasts.`
+### Let's build something that lasts.
+
+Open to internships, new-grad roles, and interesting problems.
+Reach out — I reply fast.
+
+[![Email](https://img.shields.io/badge/ram.sakuru@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:ram.sakuru@gmail.com)
 
 </div>
+
+<br>
+
+<div align="center">
+
+`> session active — thanks for stopping by.`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0A0E12&height=120&section=footer&reversal=false" width="100%" />
