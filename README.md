@@ -188,6 +188,39 @@ Reach out — I reply fast.
 
 <br>
 
+<!-- ==================================================================== -->
+<!--                       SYSTEM STATS (fun)                              -->
+<!-- ==================================================================== -->
+```console
+rmarao@dev:~$ neofetch
+```
+
+```
+        _nnnn_          rmarao@dev
+       dGGGGMMb         -----------
+      @p~qp~~qMb        role     : software engineer
+      M|@||@) M|        focus    : backend · rest apis · applied ml
+      @,----.JM|        languages: java · python · c++ · javascript
+     JS^\__/  qKL       runtime  : coffee ☕ + curiosity
+    dZP        qKRb     status   : compiling ideas...
+   dZP          qKKb    uptime   : always building
+  fZP            SMMb   editor   : vscode
+  HZM            MMMM
+  FqM            MMMM   ██████ green
+   qm         _dMMMb    ██████ python-blue
+    qMMMMMMMMMMMMMMM    ██████ terminal-black
+```
+
+<br>
+
+<div align="center">
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
+
+</div>
+
+<br>
+
 <div align="center">
 
 `> session active — thanks for stopping by.`
